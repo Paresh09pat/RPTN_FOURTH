@@ -1071,12 +1071,11 @@ input {
     /* first section */
 
     #FSNC_first_sec_main_div {
-
         height: auto;
     }
 
     .mycon {
-        height: 1000px;
+        height: 900px;
     }
 
     .slide {
@@ -1097,7 +1096,6 @@ input {
         width: 90%;
         margin-left: 5%;
         color: white;
-
     }
 
     .give_some_border {
@@ -1116,8 +1114,8 @@ input {
 
     .rptn_heading_ST {
         font-size: 20px;
-        word-spacing: 10px;
-        letter-spacing: 2px;
+        word-spacing: 5px;
+        letter-spacing: 1px;
     }
 
     .slide img {
@@ -1244,6 +1242,7 @@ input {
         font-size: 16px;
         padding: 0px 15px 0px 15px;
         padding-bottom: 50px;
+        margin: 0px;
     }
 
 
@@ -1596,7 +1595,7 @@ input {
         position: relative;
         transform: rotate(270deg);
         left: 15px;
-        bottom: 158PX;
+        bottom: 187PX;
     }
 
 
